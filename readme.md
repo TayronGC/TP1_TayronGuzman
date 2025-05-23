@@ -15,11 +15,11 @@ Durante el desarrollo del proyecto, consulté los siguientes recursos
   _Para ver como era la funcion nativa de raíz cuadrada de un número_
 
 - MDN Web Docs Mozilla:  
-  [https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  [https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)  
  _Para ver como funcionan los arrays en JavaScript, metodos, entre otras cosas y vi que si se pueden cambiar la longitud en cambio a otros lenguajes, son dinamicos en JavaScript_
 
 - Documentación oficial de Node.js:  
-  [https://nodejs.org/api/readline.html](https://nodejs.org/api/readline.html)
+  [https://nodejs.org/api/readline.html](https://nodejs.org/api/readline.html)  
  _Para ver como funciona el readline_
 
 ---
