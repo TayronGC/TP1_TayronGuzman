@@ -1,0 +1,19 @@
+{
+  "name": "tp1-fi23032601",
+  "version": "1.0.0",
+  "description": "Tarea 1 PrograAvanzada Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TayronGC/TP1_TayronGuzman.git"
+  },
+  "author": "Tayron Guzman Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TayronGC/TP1_TayronGuzman/issues"
+  },
+  "homepage": "https://github.com/TayronGC/TP1_TayronGuzman#readme"
+}
